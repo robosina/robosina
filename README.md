@@ -15,3 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robosina&show_icons=true&theme=radical)
+
+# I am most enthusiastic about the below technologies.
+- machine vision
+- deep learning
+- object detection and segmentation
+- C++, Qt and QML
+- OpenCV
+- Networking(network++)
+- Python
